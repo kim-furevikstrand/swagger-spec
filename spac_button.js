@@ -1,5 +1,5 @@
 const button = document.createElement("button");
-button.innerText = "Copy Spac";
+button.innerText = "Copy Spec";
 button.classList.add("btn");
 document.querySelector(".auth-wrapper").prepend(button);
 
